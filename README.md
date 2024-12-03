@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fahim Chowdhury</h1>
-<h3 align="center">A passionate Full Stack Developer From Bangaldesh</h3>
+<h3 align="center">A Passionate Full Stack Developer From Bangaldesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cfahim207&label=Profile%20views&color=0e75b6&style=flat" alt="cfahim207" /> </p>
 
-- 🔭 I’m currently working on **Infinity Book**
+- 🔭 I’m currently working on **InfinityBook**
 
 - 🌱 I’m currently learning **React Authentication**
 
